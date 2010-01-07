@@ -1,0 +1,4 @@
+<meta>
+	<info author="CodeMaster" version="0.0.1" type="script" name="MTA Advanced Chat System" />
+	<script src="macs_core.lua" />
+</meta>
