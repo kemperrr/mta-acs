@@ -1,0 +1,3 @@
+**MTA Advanced Chat System** is a resource for Multi Theft Auto San Andreas 1.0.x, made with aim to provide advanced level of chat control.
+
+Main goal, which defined this project was, and still is, to make chat easy for both English speaking and non-English speaking community by separating server-wide chat to several channels, which are visible only to players inside that channel. This also takes private messaging to the next level, by allowing more players to participate in a private chat.
